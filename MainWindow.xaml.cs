@@ -24,5 +24,7 @@ namespace WpfApp_Exam
         {
             InitializeComponent();
         }
+
+        
     }
 }
